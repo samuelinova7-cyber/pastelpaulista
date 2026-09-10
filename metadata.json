@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Paulista na Praia",
+  "description": "Cardápio digital interativo e pedidos via WhatsApp do Pastel Paulista na Praia do Francês - AL.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
